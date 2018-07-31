@@ -12,7 +12,7 @@
 
 > 由于 IDEA 自动生成的 Maven 项目缺少 一个 webapp 目录，所以需要我们自己创建该项目。下图是完善好目录结构：
 
-![SSM-DEMO](E:\githubSample\SSM-DEMO\image\SSM-DEMO.PNG)
+![SSM-DEMO](https://github.com/volewu/JAVA_NOTE-DEMO/blob/master/SSM/SSM-DEMO/image/SSM-DEMO.PNG?raw=true)
 
 
 
