@@ -339,4 +339,4 @@ ${currentUser.userName}
 
 由于在本文得测试项，我并没做过多的介绍，也许本文只有我能看懂全部，文笔还需努力呀！
 
-项目地址：[SSM]([SSM-DEMO](https://github.com/volewu/JAVA_NOTE-DEMO/tree/master/SSM/SSM-DEMO))
+项目地址：[SSM](https://github.com/volewu/JAVA_NOTE-DEMO/tree/master/SSM/SSM-DEMO))
